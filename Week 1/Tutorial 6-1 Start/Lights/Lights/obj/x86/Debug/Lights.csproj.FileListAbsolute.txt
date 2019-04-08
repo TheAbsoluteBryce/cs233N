@@ -1,0 +1,32 @@
+D:\Data\LCCData\CLASSES Current\CS133N\From Pearson Website\SolutionsProgrammingProblems\Instructors\Completed Tutorials\Completed Tutorials\Chapter 06\Tutorial 6-1\Lights\Lights\bin\Debug\Lights.exe
+D:\Data\LCCData\CLASSES Current\CS133N\From Pearson Website\SolutionsProgrammingProblems\Instructors\Completed Tutorials\Completed Tutorials\Chapter 06\Tutorial 6-1\Lights\Lights\bin\Debug\Lights.pdb
+D:\Data\LCCData\CLASSES Current\CS133N\From Pearson Website\SolutionsProgrammingProblems\Instructors\Completed Tutorials\Completed Tutorials\Chapter 06\Tutorial 6-1\Lights\Lights\obj\x86\Debug\Lights.csprojResolveAssemblyReference.cache
+D:\Data\LCCData\CLASSES Current\CS133N\From Pearson Website\SolutionsProgrammingProblems\Instructors\Completed Tutorials\Completed Tutorials\Chapter 06\Tutorial 6-1\Lights\Lights\obj\x86\Debug\Lights.Form1.resources
+D:\Data\LCCData\CLASSES Current\CS133N\From Pearson Website\SolutionsProgrammingProblems\Instructors\Completed Tutorials\Completed Tutorials\Chapter 06\Tutorial 6-1\Lights\Lights\obj\x86\Debug\Lights.Properties.Resources.resources
+D:\Data\LCCData\CLASSES Current\CS133N\From Pearson Website\SolutionsProgrammingProblems\Instructors\Completed Tutorials\Completed Tutorials\Chapter 06\Tutorial 6-1\Lights\Lights\obj\x86\Debug\Lights.csproj.GenerateResource.Cache
+D:\Data\LCCData\CLASSES Current\CS133N\From Pearson Website\SolutionsProgrammingProblems\Instructors\Completed Tutorials\Completed Tutorials\Chapter 06\Tutorial 6-1\Lights\Lights\obj\x86\Debug\Lights.exe
+D:\Data\LCCData\CLASSES Current\CS133N\From Pearson Website\SolutionsProgrammingProblems\Instructors\Completed Tutorials\Completed Tutorials\Chapter 06\Tutorial 6-1\Lights\Lights\obj\x86\Debug\Lights.pdb
+D:\Data\LCCData\CLASSES Current\CS133N\Projects\Tutorial 6-1\Lights\Lights\obj\x86\Debug\Lights.exe
+D:\Data\LCCData\CLASSES Current\CS133N\Projects\Tutorial 6-1\Lights\Lights\obj\x86\Debug\Lights.pdb
+C:\Users\L\Desktop\CS133N\Projects\Tutorial 6-1\Lights\Lights\obj\x86\Debug\Lights.exe
+C:\Users\L\Desktop\CS133N\Projects\Tutorial 6-1\Lights\Lights\obj\x86\Debug\Lights.pdb
+C:\Users\L\Desktop\CS133N\Projects\Tutorial 6-1 Completed\Lights\Lights\obj\x86\Debug\Lights.exe
+C:\Users\L\Desktop\CS133N\Projects\Tutorial 6-1 Completed\Lights\Lights\obj\x86\Debug\Lights.pdb
+C:\Users\LittleR\Desktop\CS 133N for CS 233N\Tutorial 6-1 Completed\Lights\Lights\bin\Debug\Lights.exe
+C:\Users\LittleR\Desktop\CS 133N for CS 233N\Tutorial 6-1 Completed\Lights\Lights\bin\Debug\Lights.pdb
+C:\Users\LittleR\Desktop\CS 133N for CS 233N\Tutorial 6-1 Completed\Lights\Lights\obj\x86\Debug\Lights.csprojAssemblyReference.cache
+C:\Users\LittleR\Desktop\CS 133N for CS 233N\Tutorial 6-1 Completed\Lights\Lights\obj\x86\Debug\Lights.Form1.resources
+C:\Users\LittleR\Desktop\CS 133N for CS 233N\Tutorial 6-1 Completed\Lights\Lights\obj\x86\Debug\Lights.Properties.Resources.resources
+C:\Users\LittleR\Desktop\CS 133N for CS 233N\Tutorial 6-1 Completed\Lights\Lights\obj\x86\Debug\Lights.csproj.GenerateResource.cache
+C:\Users\LittleR\Desktop\CS 133N for CS 233N\Tutorial 6-1 Completed\Lights\Lights\obj\x86\Debug\Lights.csproj.CoreCompileInputs.cache
+C:\Users\LittleR\Desktop\CS 133N for CS 233N\Tutorial 6-1 Completed\Lights\Lights\obj\x86\Debug\Lights.exe
+C:\Users\LittleR\Desktop\CS 133N for CS 233N\Tutorial 6-1 Completed\Lights\Lights\obj\x86\Debug\Lights.pdb
+C:\Users\teehe_000\Desktop\Bryce School Stuff\CS 233n\Week 1\Tutorial 6-1 Start\Lights\Lights\obj\x86\Debug\Lights.csprojAssemblyReference.cache
+C:\Users\teehe_000\Desktop\Bryce School Stuff\CS 233n\Week 1\Tutorial 6-1 Start\Lights\Lights\obj\x86\Debug\Lights.Form1.resources
+C:\Users\teehe_000\Desktop\Bryce School Stuff\CS 233n\Week 1\Tutorial 6-1 Start\Lights\Lights\obj\x86\Debug\Lights.Properties.Resources.resources
+C:\Users\teehe_000\Desktop\Bryce School Stuff\CS 233n\Week 1\Tutorial 6-1 Start\Lights\Lights\obj\x86\Debug\Lights.csproj.GenerateResource.cache
+C:\Users\teehe_000\Desktop\Bryce School Stuff\CS 233n\Week 1\Tutorial 6-1 Start\Lights\Lights\obj\x86\Debug\Lights.csproj.CoreCompileInputs.cache
+C:\Users\teehe_000\Desktop\Bryce School Stuff\CS 233n\Week 1\Tutorial 6-1 Start\Lights\Lights\obj\x86\Debug\Lights.exe
+C:\Users\teehe_000\Desktop\Bryce School Stuff\CS 233n\Week 1\Tutorial 6-1 Start\Lights\Lights\obj\x86\Debug\Lights.pdb
+C:\Users\teehe_000\Desktop\Bryce School Stuff\CS 233n\Week 1\Tutorial 6-1 Start\Lights\Lights\bin\Debug\Lights.exe
+C:\Users\teehe_000\Desktop\Bryce School Stuff\CS 233n\Week 1\Tutorial 6-1 Start\Lights\Lights\bin\Debug\Lights.pdb

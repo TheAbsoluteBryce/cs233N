@@ -1,0 +1,39 @@
+C:\Users\L\Desktop\CS133N\Projects\KilogramConversion\KilogramConversion\bin\Debug\KilogramConversion.exe.config
+C:\Users\L\Desktop\CS133N\Projects\KilogramConversion\KilogramConversion\bin\Debug\KilogramConversion.exe
+C:\Users\L\Desktop\CS133N\Projects\KilogramConversion\KilogramConversion\bin\Debug\KilogramConversion.pdb
+C:\Users\L\Desktop\CS133N\Projects\KilogramConversion\KilogramConversion\obj\Debug\KilogramConversion.csprojResolveAssemblyReference.cache
+C:\Users\L\Desktop\CS133N\Projects\KilogramConversion\KilogramConversion\obj\Debug\KilogramConversion.Form1.resources
+C:\Users\L\Desktop\CS133N\Projects\KilogramConversion\KilogramConversion\obj\Debug\KilogramConversion.Properties.Resources.resources
+C:\Users\L\Desktop\CS133N\Projects\KilogramConversion\KilogramConversion\obj\Debug\KilogramConversion.csproj.GenerateResource.Cache
+C:\Users\L\Desktop\CS133N\Projects\KilogramConversion\KilogramConversion\obj\Debug\KilogramConversion.exe
+C:\Users\L\Desktop\CS133N\Projects\KilogramConversion\KilogramConversion\obj\Debug\KilogramConversion.pdb
+C:\Users\LittleR\Desktop\CS 133N for CS 233N\KilogramConversion\KilogramConversion\bin\Debug\KilogramConversion.exe.config
+C:\Users\LittleR\Desktop\CS 133N for CS 233N\KilogramConversion\KilogramConversion\bin\Debug\KilogramConversion.exe
+C:\Users\LittleR\Desktop\CS 133N for CS 233N\KilogramConversion\KilogramConversion\bin\Debug\KilogramConversion.pdb
+C:\Users\LittleR\Desktop\CS 133N for CS 233N\KilogramConversion\KilogramConversion\obj\Debug\KilogramConversion.csprojAssemblyReference.cache
+C:\Users\LittleR\Desktop\CS 133N for CS 233N\KilogramConversion\KilogramConversion\obj\Debug\KilogramConversion.Form1.resources
+C:\Users\LittleR\Desktop\CS 133N for CS 233N\KilogramConversion\KilogramConversion\obj\Debug\KilogramConversion.Properties.Resources.resources
+C:\Users\LittleR\Desktop\CS 133N for CS 233N\KilogramConversion\KilogramConversion\obj\Debug\KilogramConversion.csproj.GenerateResource.cache
+C:\Users\LittleR\Desktop\CS 133N for CS 233N\KilogramConversion\KilogramConversion\obj\Debug\KilogramConversion.csproj.CoreCompileInputs.cache
+C:\Users\LittleR\Desktop\CS 133N for CS 233N\KilogramConversion\KilogramConversion\obj\Debug\KilogramConversion.exe
+C:\Users\LittleR\Desktop\CS 133N for CS 233N\KilogramConversion\KilogramConversion\obj\Debug\KilogramConversion.pdb
+C:\Users\LittleR\Desktop\CS 133N for CS 233N\KilogramConversion Start\KilogramConversion\bin\Debug\KilogramConversion.exe.config
+C:\Users\LittleR\Desktop\CS 133N for CS 233N\KilogramConversion Start\KilogramConversion\bin\Debug\KilogramConversion.exe
+C:\Users\LittleR\Desktop\CS 133N for CS 233N\KilogramConversion Start\KilogramConversion\bin\Debug\KilogramConversion.pdb
+C:\Users\LittleR\Desktop\CS 133N for CS 233N\KilogramConversion Start\KilogramConversion\obj\Debug\KilogramConversion.csprojAssemblyReference.cache
+C:\Users\LittleR\Desktop\CS 133N for CS 233N\KilogramConversion Start\KilogramConversion\obj\Debug\KilogramConversion.Form1.resources
+C:\Users\LittleR\Desktop\CS 133N for CS 233N\KilogramConversion Start\KilogramConversion\obj\Debug\KilogramConversion.Properties.Resources.resources
+C:\Users\LittleR\Desktop\CS 133N for CS 233N\KilogramConversion Start\KilogramConversion\obj\Debug\KilogramConversion.csproj.GenerateResource.cache
+C:\Users\LittleR\Desktop\CS 133N for CS 233N\KilogramConversion Start\KilogramConversion\obj\Debug\KilogramConversion.csproj.CoreCompileInputs.cache
+C:\Users\LittleR\Desktop\CS 133N for CS 233N\KilogramConversion Start\KilogramConversion\obj\Debug\KilogramConversion.exe
+C:\Users\LittleR\Desktop\CS 133N for CS 233N\KilogramConversion Start\KilogramConversion\obj\Debug\KilogramConversion.pdb
+C:\Users\teehe_000\Desktop\Bryce School Stuff\CS 233n\Week 1\KilogramConversion Start\KilogramConversion\obj\Debug\KilogramConversion.csprojAssemblyReference.cache
+C:\Users\teehe_000\Desktop\Bryce School Stuff\CS 233n\Week 1\KilogramConversion Start\KilogramConversion\obj\Debug\KilogramConversion.Form1.resources
+C:\Users\teehe_000\Desktop\Bryce School Stuff\CS 233n\Week 1\KilogramConversion Start\KilogramConversion\obj\Debug\KilogramConversion.Properties.Resources.resources
+C:\Users\teehe_000\Desktop\Bryce School Stuff\CS 233n\Week 1\KilogramConversion Start\KilogramConversion\obj\Debug\KilogramConversion.csproj.GenerateResource.cache
+C:\Users\teehe_000\Desktop\Bryce School Stuff\CS 233n\Week 1\KilogramConversion Start\KilogramConversion\obj\Debug\KilogramConversion.csproj.CoreCompileInputs.cache
+C:\Users\teehe_000\Desktop\Bryce School Stuff\CS 233n\Week 1\KilogramConversion Start\KilogramConversion\obj\Debug\KilogramConversion.exe
+C:\Users\teehe_000\Desktop\Bryce School Stuff\CS 233n\Week 1\KilogramConversion Start\KilogramConversion\obj\Debug\KilogramConversion.pdb
+C:\Users\teehe_000\Desktop\Bryce School Stuff\CS 233n\Week 1\KilogramConversion Start\KilogramConversion\bin\Debug\KilogramConversion.exe.config
+C:\Users\teehe_000\Desktop\Bryce School Stuff\CS 233n\Week 1\KilogramConversion Start\KilogramConversion\bin\Debug\KilogramConversion.exe
+C:\Users\teehe_000\Desktop\Bryce School Stuff\CS 233n\Week 1\KilogramConversion Start\KilogramConversion\bin\Debug\KilogramConversion.pdb

@@ -1,0 +1,18 @@
+C:\Users\LittleR\Desktop\CS 133N for CS 233N\Tutorial 6-4 Start\Cups To Ounces\Cups To Ounces\bin\Debug\Cups To Ounces.exe
+C:\Users\LittleR\Desktop\CS 133N for CS 233N\Tutorial 6-4 Start\Cups To Ounces\Cups To Ounces\bin\Debug\Cups To Ounces.pdb
+C:\Users\LittleR\Desktop\CS 133N for CS 233N\Tutorial 6-4 Start\Cups To Ounces\Cups To Ounces\obj\x86\Debug\Cups To Ounces.csprojAssemblyReference.cache
+C:\Users\LittleR\Desktop\CS 133N for CS 233N\Tutorial 6-4 Start\Cups To Ounces\Cups To Ounces\obj\x86\Debug\Cups_To_Ounces.Form1.resources
+C:\Users\LittleR\Desktop\CS 133N for CS 233N\Tutorial 6-4 Start\Cups To Ounces\Cups To Ounces\obj\x86\Debug\Cups_To_Ounces.Properties.Resources.resources
+C:\Users\LittleR\Desktop\CS 133N for CS 233N\Tutorial 6-4 Start\Cups To Ounces\Cups To Ounces\obj\x86\Debug\Cups To Ounces.csproj.GenerateResource.cache
+C:\Users\LittleR\Desktop\CS 133N for CS 233N\Tutorial 6-4 Start\Cups To Ounces\Cups To Ounces\obj\x86\Debug\Cups To Ounces.csproj.CoreCompileInputs.cache
+C:\Users\LittleR\Desktop\CS 133N for CS 233N\Tutorial 6-4 Start\Cups To Ounces\Cups To Ounces\obj\x86\Debug\Cups To Ounces.exe
+C:\Users\LittleR\Desktop\CS 133N for CS 233N\Tutorial 6-4 Start\Cups To Ounces\Cups To Ounces\obj\x86\Debug\Cups To Ounces.pdb
+C:\Users\teehe_000\Desktop\Bryce School Stuff\CS 233n\Week 1\Tutorial 6-4 Start\Cups To Ounces\Cups To Ounces\bin\Debug\Cups To Ounces.exe
+C:\Users\teehe_000\Desktop\Bryce School Stuff\CS 233n\Week 1\Tutorial 6-4 Start\Cups To Ounces\Cups To Ounces\bin\Debug\Cups To Ounces.pdb
+C:\Users\teehe_000\Desktop\Bryce School Stuff\CS 233n\Week 1\Tutorial 6-4 Start\Cups To Ounces\Cups To Ounces\obj\x86\Debug\Cups To Ounces.csprojAssemblyReference.cache
+C:\Users\teehe_000\Desktop\Bryce School Stuff\CS 233n\Week 1\Tutorial 6-4 Start\Cups To Ounces\Cups To Ounces\obj\x86\Debug\Cups_To_Ounces.Form1.resources
+C:\Users\teehe_000\Desktop\Bryce School Stuff\CS 233n\Week 1\Tutorial 6-4 Start\Cups To Ounces\Cups To Ounces\obj\x86\Debug\Cups_To_Ounces.Properties.Resources.resources
+C:\Users\teehe_000\Desktop\Bryce School Stuff\CS 233n\Week 1\Tutorial 6-4 Start\Cups To Ounces\Cups To Ounces\obj\x86\Debug\Cups To Ounces.csproj.GenerateResource.cache
+C:\Users\teehe_000\Desktop\Bryce School Stuff\CS 233n\Week 1\Tutorial 6-4 Start\Cups To Ounces\Cups To Ounces\obj\x86\Debug\Cups To Ounces.csproj.CoreCompileInputs.cache
+C:\Users\teehe_000\Desktop\Bryce School Stuff\CS 233n\Week 1\Tutorial 6-4 Start\Cups To Ounces\Cups To Ounces\obj\x86\Debug\Cups To Ounces.exe
+C:\Users\teehe_000\Desktop\Bryce School Stuff\CS 233n\Week 1\Tutorial 6-4 Start\Cups To Ounces\Cups To Ounces\obj\x86\Debug\Cups To Ounces.pdb
